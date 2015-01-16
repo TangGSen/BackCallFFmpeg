@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FFmpeg耳</string>
+    <string name="action_settings">设置</string>
+
+    <string name="app_logo_title">阳光总在风雨后</string>
+</resources>
