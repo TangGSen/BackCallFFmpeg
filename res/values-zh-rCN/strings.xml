@@ -5,4 +5,7 @@
     <string name="action_settings">设置</string>
 
     <string name="app_logo_title">阳光总在风雨后</string>
+    <string name="command_general">通用</string>
+    <string name="ff_command_hint">Type command text here</string>
+    <string name="ff_label_run">GO</string>
 </resources>

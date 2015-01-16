@@ -22,7 +22,7 @@ public class HomeActivity extends MaterialNavigationDrawer {
         setDrawerHeaderCustom(view);
 
         // create sections
-        section1 = this.newSection("Section 1",new FragmentIndex());
+        section1 = this.newSection(getString(R.string.command_general),new GeneralCommandFragment());
         section2 = this.newSection("Section 2",new MaterialSectionListener() {
             @Override
             public void onClick(MaterialSection section) {

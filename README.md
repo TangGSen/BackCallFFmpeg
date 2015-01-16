@@ -8,3 +8,5 @@ android-ui
 NavigateDrawer
 
 Cardlib
+
+ffmpeg-android-java
